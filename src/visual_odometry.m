@@ -6,6 +6,7 @@ addpath(genpath('../../gtsam_toolbox'))
 import gtsam.*
 
 format long;
+
 %% Data Options
 NUM_FRAMES = 0; % 0 for all
 NUM_INITIALISE =10 %TODO find a nice values
